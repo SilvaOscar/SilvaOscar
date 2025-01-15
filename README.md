@@ -14,7 +14,6 @@
 
 - Desenvolvedor 
 - Estudo Engenharia de Software
-- Atualmente aprendendo Java
 
 <br><br>
 
